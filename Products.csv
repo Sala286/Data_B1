@@ -1,4 +1,4 @@
-Product Code,Product Name,Category,Min Price,Max Price,Purchase Date,Rate per Unit,Quantity,Total Price,Supplier,Sold,Sell Price ,Worker name,Date,Time
+Product Code,Product Name,Category,Min Price,Max Price,Purchase Date,Rate per Unit,Quantity,Total Price,Supplier,Sold,Sell Price ,Name,Date,Time
 S01M5001,Jowela - HDMI Cable - 1.5 M,HDMI Cable,180,250,13/01/2026,84.75,2,169.5,Kalam Laptops and Spares,,,,,
 S01M5002,LT - CAT6 Lan Cable 1.5 M Bolt,Lan Cable,180,250,13/01/2026,84.75,6,423.75,Kalam Laptops and Spares,,,,,
 S01M5003,LT - Printer Cable flow 1.5 M,Printer Cable,180,250,13/01/2026,84.75,4,423.75,Kalam Laptops and Spares,,,,,
@@ -151,6 +151,6 @@ S01M5001,,,,,,,,,,1,200,tg,2/9/2026, 10:27:33 PM
 S01M5006,,,,,,,,,,1,260,sa,2/9/2026, 10:27:33 PM
 S01M5001,,,,,,,,,,2,265,ya,2/9/2026, 10:27:33 PM
 S01M5005,,,,,,,,,,1,340,sala,2/9/2026, 10:27:33 PM
-S01M5003,,,,,,,,,2,210,s5,2/9/2026, 11:59:55 PM
-S01M5008,,,,,,,,,1,750,ss1,2/10/2026, 12:03:53 AM
+S01M5003,,,,,,,,,2,210,s5,2/9/2026, 11:59:55 PM,
+S01M5008,,,,,,,,,1,750,ss1,2/10/2026, 12:03:53 AM,
 S01M5101,,,,,,,,,,3,115,SS3,2/10/2026, 12:11:09 AM
